@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+  The Systems Engineering Design group at Chalmers studies the product development process and its participants in product developing companies in order to understand their problems and needs. This knowledge gained is then transformed into better work procedures, development methods and computer-based tools. A special interest is platform-based development, which is a widely adopted strategy for balancing the conflict between reuse and demands on customization. 
+  
+  The aim of the research conducted within this theme is to significantly contribute to a new system family based platform description approach that, in a PLM environment, will provide a ground for reuse of assets in terms of knowledge in all product development phases as well as in production, i.e. from early requirement specification and concept development phases to the final detail system design phase and in production.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll

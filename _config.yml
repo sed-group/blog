@@ -21,9 +21,8 @@
 title: SED Blog
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  The Systems Engineering Design group at Chalmers studies the product development process and its participants in product developing companies in order to understand their problems and needs. This knowledge gained is then transformed into better work procedures, development methods and computer-based tools. A special interest is platform-based development, which is a widely adopted strategy for balancing the conflict between reuse and demands on customization. 
-  The aim of the research conducted within this theme is to significantly contribute to a new system family based platform description approach that, in a PLM environment, will provide a ground for reuse of assets in terms of knowledge in all product development phases as well as in production, i.e. from early requirement specification and concept development phases to the final detail system design phase and in production.
- 
+  The blog of the Systems Engineering Design group at Chalmers University of Technology.
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.systemsengineering.design" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SED_Lab
