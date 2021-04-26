@@ -22,3 +22,5 @@ As mentioned, two of my main interests and drive forces are sustainability and i
 **WHAT DO YOU HOPE TO BRING TO OUR TEACHING?**
 
 This is a tough one since I have been very pleased with the education provided here at Chalmers, but I would say that my ambition is to increase the integration between students and the work/research that is conducted at our institution. There are many initiatives from students at Chalmers that tries to bridge the gap between education and industry, where MARM and CTK are two examples. I would like to do similar things but relate it to the research that is conducted at Chalmers SED lab, since this is something I would have valued as student.
+
+![Adam Mallalieu seated in a nice car](/assets/SED_interview_adam.jpg)
