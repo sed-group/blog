@@ -2,6 +2,7 @@
 layout: post
 title:  "Welcome as a PhD candidate Adam Mallalieu!"
 date:   2021-04-26 14:05:06 +0200
+summary: An interview with the SED Group newest member, Adam Mallalieu.
 categories: interview phd
 ---
 
