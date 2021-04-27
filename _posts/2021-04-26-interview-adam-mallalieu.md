@@ -8,6 +8,8 @@ categories: interview phd
 
 Adam Mallalieu is a PhD candidate at the [SED Lab](https://www.chalmers.se/en/departments/ims/research/product-development/Pages/systems-engineering-design.aspx) employed during April that will be working with systems engineering design methods and tools. Adam is part of the DSIP research profile [“Digital Sustainability Implementation Package“](https://www.bth.se/forskning/forskningsomraden/strategisk-hallbar-utveckling/digital-sustainability-implementation-package-dsip/).
 
+![Adam Mallalieu seated in a nice car](/assets/SED_interview_adam.jpg)
+
 **TELL US A LITTLE BIT ABOUT YOURSELF, WHAT IS YOUR BACKGROUND?**
 
 My name is Adam, I am 25 years old and come from Örebro. I moved to Gothenburg in 2015 where I began my education in mechanical engineering here at Chalmers, which had been a lifelong dream. After my first three years at the bachelor, where I was active through both MISS and MSG, I began my master’s degree in both Product Development and Automotive Engineering. I graduated in January after conducting my master’s thesis in product development here at IMS and have been working here as a project researcher for the past months. On my spare time my main interests lie in football, going to the gym, as well as living an overall active and social life. I have for as long as I remember dreamt of being and engineer, and have always had a high interest of technology, where cars is specifically one of my main interests!
@@ -23,5 +25,3 @@ As mentioned, two of my main interests and drive forces are sustainability and i
 **WHAT DO YOU HOPE TO BRING TO OUR TEACHING?**
 
 This is a tough one since I have been very pleased with the education provided here at Chalmers, but I would say that my ambition is to increase the integration between students and the work/research that is conducted at our institution. There are many initiatives from students at Chalmers that tries to bridge the gap between education and industry, where MARM and CTK are two examples. I would like to do similar things but relate it to the research that is conducted at Chalmers SED lab, since this is something I would have valued as student.
-
-![Adam Mallalieu seated in a nice car](/assets/SED_interview_adam.jpg)
