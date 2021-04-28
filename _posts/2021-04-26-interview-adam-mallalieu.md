@@ -4,6 +4,7 @@ title:  "Welcome as a PhD candidate Adam Mallalieu!"
 date:   2021-04-26 14:05:06 +0200
 summary: An interview with the SED Group newest member, Adam Mallalieu.
 categories: interview phd
+author: Massimo Panarotto
 ---
 
 Adam Mallalieu is a PhD candidate at the [SED Lab](https://www.chalmers.se/en/departments/ims/research/product-development/Pages/systems-engineering-design.aspx) employed during April that will be working with systems engineering design methods and tools. Adam is part of the DSIP research profile [“Digital Sustainability Implementation Package“](https://www.bth.se/forskning/forskningsomraden/strategisk-hallbar-utveckling/digital-sustainability-implementation-package-dsip/).
