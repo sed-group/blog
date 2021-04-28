@@ -2,7 +2,7 @@
 title:       SEDLab Blog
 email:       
 author:      Iñigo Alonso Fernandez
-description: "The SED Group at the Chalmers University of Technology"
+description: "The SED Group blog"
 baseurl:     ""
 url:         "https://blog.systemsengineering.design"
 date_format: "%Y/%m/%d"
