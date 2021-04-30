@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Register for the 'From Big Bang to future settlements on Mars' seminar"
-date:   2021-04-30 9:00:00 +0200
+date:   2021-04-30 9:15:00 +0200
 summary: A Chalmers Initiative Seminar, streamed on May the 4th (be with you).
 categories: news
 author: Iñigo Alonso Fernandez
